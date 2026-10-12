@@ -1,5 +1,9 @@
 # AI Ops Copilot
 
+![AI Ops Copilot dashboard](docs/mainpage.png)
+
+Live demo: https://ai-ops-copilot-gzdc.onrender.com/
+
 Storage-drive health monitoring with a built-in AI copilot. All data is **simulated**.
 
 - **Backend:** FastAPI, SQLAlchemy 2, PostgreSQL (SQLite for quick local runs)
